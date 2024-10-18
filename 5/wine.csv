@@ -1,0 +1,101 @@
+ID,country,designation,points,price,province,region,variety,winery
+0,US,Martha's Vineyard,96,235.0,California,Napa Valley,Cabernet Sauvignon,Heitz
+1,Spain,Carodorum Selección Especial Reserva,96,110.0,Northern Spain,Toro,Tinta de Toro,Bodega Carmen Rodríguez
+2,US,Special Selected Late Harvest,96,90.0,California,Knights Valley,Sauvignon Blanc,Macauley
+3,US,Reserve,96,65.0,Oregon,Willamette Valley,Pinot Noir,Ponzi
+4,France,La Brûlade,95,66.0,Provence,Bandol,Provence red blend,Domaine de la Bégude
+5,Spain,Numanthia,95,73.0,Northern Spain,Toro,Tinta de Toro,Numanthia
+6,Spain,San Román,95,65.0,Northern Spain,Toro,Tinta de Toro,Maurodos
+7,Spain,Carodorum Único Crianza,95,110.0,Northern Spain,Toro,Tinta de Toro,Bodega Carmen Rodríguez
+8,US,Silice,95,65.0,Oregon,Chehalem Mountains,Pinot Noir,Bergström
+9,US,Gap's Crown Vineyard,95,60.0,California,Sonoma Coast,Pinot Noir,Blue Farm
+10,Italy,Ronco della Chiesa,95,80.0,Northeastern Italy,Collio,Friulano,Borgo del Tiglio
+11,US,Estate Vineyard Wadensvil Block,95,48.0,Oregon,Ribbon Ridge,Pinot Noir,Patricia Green Cellars
+12,US,Weber Vineyard,95,48.0,Oregon,Dundee Hills,Pinot Noir,Patricia Green Cellars
+13,France,Château Montus Prestige,95,90.0,Southwest France,Madiran,Tannat,Vignobles Brumont
+14,US,Grace Vineyard,95,185.0,Oregon,Dundee Hills,Pinot Noir,Domaine Serene
+15,US,Sigrid,95,90.0,Oregon,Willamette Valley,Chardonnay,Bergström
+16,US,Rainin Vineyard,95,325.0,California,Diamond Mountain District,Cabernet Sauvignon,Hall
+17,Spain,6 Años Reserva Premium,95,80.0,Northern Spain,Ribera del Duero,Tempranillo,Valduero
+18,France,Le Pigeonnier,95,290.0,Southwest France,Cahors,Malbec,Château Lagrézette
+19,US,Gap's Crown Vineyard,95,75.0,California,Sonoma Coast,Pinot Noir,Gary Farrell
+20,US,Grignolino,95,24.0,California,Napa Valley,Rosé,Heitz
+21,Spain,Prado Enea Gran Reserva,95,79.0,Northern Spain,Rioja,Tempranillo Blend,Muga
+22,Spain,Termanthia,95,220.0,Northern Spain,Toro,Tinta de Toro,Numanthia
+23,US,Giallo Solare,95,60.0,California,Edna Valley,Chardonnay,Center of Effort
+24,US,R-Bar-R Ranch,95,45.0,California,Santa Cruz Mountains,Pinot Noir,Comartin
+26,US,Shea Vineyard,94,62.0,Oregon,Willamette Valley,Pinot Noir,Bergström
+27,US,Abetina,94,105.0,Oregon,Willamette Valley,Pinot Noir,Ponzi
+28,US,Garys' Vineyard,94,60.0,California,Santa Lucia Highlands,Pinot Noir,Roar
+29,US,The Funk Estate,94,60.0,Washington,Walla Walla Valley (WA),Syrah,Saviah
+31,US,Babushka,90,37.0,California,Russian River Valley,Chardonnay,Zepaltas
+33,France,Nonpareil Trésor Rosé Brut,90,22.0,France Other,Vin Mousseux,Sparkling Blend,Bouvet-Ladubay
+34,US,Conner Lee Vineyard,90,42.0,Washington,Columbia Valley (WA),Chardonnay,Buty
+35,Italy,Riserva,90,135.0,Tuscany,Brunello di Montalcino,Sangiovese,Carillon
+39,Italy,Riserva,90,29.0,Tuscany,Chianti Classico,Red Blend,Castello di Monterinaldi
+40,Spain,Amandi,90,17.0,Galicia,Ribeira Sacra,Mencía,Don Bernardino
+41,Spain,Alfonso Oloroso Seco,90,26.0,Andalucia,Jerez,Palomino,González Byass
+43,Italy,Riserva,90,39.0,Tuscany,Chianti Classico,Red Blend,Rignana
+44,France,Coteaux,90,69.0,Rhône Valley,Cornas,Syrah,Tardieu-Laurent
+45,Italy,Vigneto Odoardo Beccari Riserva,90,30.0,Tuscany,Chianti Classico,Red Blend,Vignavecchia
+46,Italy,Poggio alle Mura,90,90.0,Tuscany,Brunello di Montalcino,Sangiovese,Banfi
+47,US,Estate Grown,90,60.0,California,Mount Veeder,Cabernet Sauvignon,Brandlin
+50,Italy,Riserva,90,100.0,Tuscany,Brunello di Montalcino,Sangiovese,Capanne Ricci
+52,France,Les 7 Hommes,90,42.0,Loire Valley,Sancerre,Sauvignon Blanc,Cherrier Frères
+53,France,L'Inédit,90,28.0,Loire Valley,Coteaux du Giennois,Pinot Noir,Clement et Florian Berthier
+55,US,Four Flags,90,69.0,Washington,Red Mountain,Cabernet Sauvignon,DeLille
+57,US,Reserve,90,25.0,New York,Finger Lakes,Riesling,Dr. Konstantin Frank
+58,US,Final Final,90,30.0,Washington,Columbia Valley (WA),Cabernet Sauvignon-Syrah,Efeste
+59,Italy,Poggio Bestiale,90,60.0,Tuscany,Maremma Toscana,Red Blend,Fattoria di Magliano
+60,Argentina,The Apple Doesn't Fall Far From The Tree,91,30.0,Mendoza Province,Mendoza,Malbec,Matias Riccitelli
+62,Argentina,Alegoría Gran Reserva,91,25.0,Mendoza Province,Mendoza,Malbec,Navarro Correas
+63,France,L'Homme Mort Premier Cru,91,45.0,Burgundy,Chablis,Chardonnay,Domaine Chenevières
+65,US,Estate Select,91,36.0,California,Santa Clara Valley,Syrah,Jason-Stephens
+66,France,Fourchaume Premier Cru,91,38.0,Burgundy,Chablis,Chardonnay,Louis Max
+67,US,Animo,91,85.0,California,Napa Valley,Cabernet Sauvignon,Michael Mondavi Family Estate
+68,US,Schindler Vineyard,91,50.0,Oregon,Eola-Amity Hills,Pinot Noir,Panther Creek
+69,US,Barrel Select,91,60.0,California,Rutherford,Cabernet Sauvignon,Provenance Vineyards
+70,US,District Collection,91,85.0,California,St. Helena,Cabernet Sauvignon,Raymond
+75,US,Premier Cuvée,91,54.0,Oregon,Willamette Valley,Pinot Noir,Archery Summit
+76,France,Le Nombre d'Or Brut Nature,91,85.0,Champagne,Champagne,Chardonnay,Aubry
+77,US,Juliana Vineyard,91,38.0,California,Napa Valley,Sauvignon Blanc,B Cellars
+79,Italy,Boscato,91,75.0,Piedmont,Barolo,Nebbiolo,Bel Colle
+80,US,Aeolian,91,42.0,Oregon,Eola-Amity Hills,Pinot Noir,Bethel Heights
+83,Italy,del Comune di Serralunga d'Alba,91,59.0,Piedmont,Barolo,Nebbiolo,Cascina Cucco
+84,Italy,Bricco Luciani,91,85.0,Piedmont,Barolo,Nebbiolo,Cascina del Monastero
+85,Italy,Bricco Gattera,91,80.0,Piedmont,Barolo,Nebbiolo,Cordero di Montezemolo
+86,France,Montmains Premier Cru,91,45.0,Burgundy,Chablis,Chardonnay,Domaine Gérard Duplessis
+88,US,Bacigalupi Vineyard,91,65.0,California,Russian River Valley,Pinot Noir,Eleven Eleven
+89,US,Magnificat,91,50.0,California,Napa Valley,Meritage,Franciscan
+92,Italy,Nature,86,22.0,Veneto,Prosecco,Glera,De Stefani
+93,US,Small Lot Blend,86,13.0,California,Mendocino County,Chardonnay,Parducci
+95,France,Château Beauvillain-Monpezat,86,14.0,Southwest France,Cahors,Malbec-Merlot,Rigal
+98,France,Pigmentum,86,15.0,Southwest France,Buzet,Merlot-Malbec,Georges Vigouroux
+99,France,Pigmentum,86,10.0,Southwest France,Côtes de Gascogne,Ugni Blanc-Colombard,Georges Vigouroux
+101,US,Stephanie,86,50.0,California,Napa Valley,Cabernet Sauvignon,Hestan
+103,US,Bella's Blend,86,48.0,California,Knights Valley,Cabernet Sauvignon-Cabernet Franc,Ehret
+104,US,Tears of Dew Late Harvest,86,20.0,California,Paso Robles,Moscato,EOS
+105,US,Tudor Hills Vineyard,86,17.0,Washington,Yakima Valley,Pinot Grigio,Martinez & Martinez
+109,US,Homestead Block,86,45.0,California,Napa Valley,Chardonnay,Kuleto Estate
+111,Argentina,Terroir Único Pinot Noir,86,12.0,Mendoza Province,Tupungato,Rosé,Zorzal
+112,US,Limited Release Cold Springs Vineyard,86,125.0,California,Howell Mountain,Cabernet Sauvignon,Charles Krug
+113,US,Castle Hill Vineyard,86,25.0,New York,Hudson River Region,Riesling,Millbrook
+115,Argentina,Reserva,86,15.0,Mendoza Province,Valle de Uco,Malbec,Viñalba
+120,US,The Flyer,91,59.0,California,Russian River Valley,Pinot Noir,MacPhail
+121,US,Charles Vineyard Clone 05,91,49.0,California,Anderson Valley,Pinot Noir,Foursight
+122,US,Solomon Hills Vineyard Rosé,91,42.0,California,Santa Maria Valley,Sparkling Blend,Goat Bubbles
+123,US,Paris Tasting Commemorative,91,93.0,California,Napa Valley,Chardonnay,Grgich Hills
+124,US,Methode a l'Ancienne,91,32.0,California,Anderson Valley,Pinot Noir,Navarro
+126,US,Grand Wren,90,100.0,California,Amador County,Zinfandel,Renwood
+127,US,Central Park West Vineyard,90,50.0,California,St. Helena,Cabernet Sauvignon,Trinchero
+128,Spain,Arnegui Reserva,90,22.0,Northern Spain,Rioja,Tempranillo,Pagos del Rey
+129,Italy,Chianta Bianco,90,45.0,Sicily & Sardinia,Etna,White Blend,Biondi
+132,US,Cooper Ranch,90,26.0,California,Amador County,Barbera,Andis
+134,US,Longwood,90,30.0,California,Napa Valley,Cabernet Sauvignon,Beaucanon
+135,US,Estate,90,42.0,California,Adelaida District,Grenache,Brecon Estate
+136,US,Mustang Springs,90,38.0,California,Adelaida District,Zinfandel,Peachy Canyon
+137,US,SMC,90,48.0,California,California,Rhône-style Red Blend,Three
+138,Spain,Crianza,90,17.0,Northern Spain,Rioja,Tempranillo,Valdelacierva
+139,France,Le,90,18.0,Languedoc-Roussillon,Coteaux du Languedoc Pic Saint Loup,Rosé,Château de Lancyre
+141,US,Rte Blanc,90,28.0,California,Napa Valley,Sauvignon Blanc,Clif Family
+142,US,Hook Vineyard,90,25.0,California,Santa Lucia Highlands,Grenache,Santa Cruz Mountain Vineyard
